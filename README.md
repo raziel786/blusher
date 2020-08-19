@@ -1,1 +1,3 @@
-# blusher
+# Blusher
+
+A work in progress project...
